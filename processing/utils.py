@@ -14,11 +14,14 @@ model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
 
 
 def get_sentiment(news_articles, query: str, write_to_file=False):
-    # Retrieve the title from each article and create a new list from it
     news_titles = [article.get("title") for article in news_articles]
 
-    news_titles['full_article'] = news_titles['title'] + " " + news_titles['fullArticle']
-    articles_list = news_titles['full_article'].tolist()
+    articles_list = []
+    for article in news_articles:
+        articles_list.append(article.get("title") + " " + article.get("fullArticle"))
+
+    # news_articles['full_article'] = news_articles['title'] + " " + news_articles['fullArticle']
+    # articles_list = news_articles['fullArticle'].tolist()
 
     #print(news_titles)
 
