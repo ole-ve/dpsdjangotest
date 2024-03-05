@@ -8,6 +8,7 @@ import wandb
 from matplotlib import pyplot as plt
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
+
 tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
 model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
 
@@ -15,10 +16,19 @@ model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
 def get_sentiment(news_articles, query: str, write_to_file=False):
     # Retrieve the title from each article and create a new list from it
     news_titles = [article.get("title") for article in news_articles]
-    print(news_titles)
 
-    # load tokenizer & model
-    inputs = tokenizer(news_titles, padding=True, truncation=True, return_tensors='pt')
+    news_titles['full_article'] = news_titles['title'] + " " + news_titles['fullArticle']
+    articles_list = news_titles['full_article'].tolist()
+
+    #print(news_titles)
+
+    # load tokenizer & model ---------------------------------------------------------------------------
+
+    # tokenizer for headlines only
+    #inputs = tokenizer(news_titles, padding=True, truncation=True, return_tensors='pt')
+    # tokenizer for full articles
+    inputs = tokenizer(articles_list, padding=True, truncation=True, max_length=512, return_tensors='pt')
+    
     outputs = model(**inputs)
 
     predictions = torch.nn.functional.softmax(outputs.logits, dim=-1)
