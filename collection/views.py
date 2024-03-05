@@ -2,35 +2,25 @@ import json
 from django.http import HttpResponse
 from gnews import GNews
 
+from collection.utils import gnews_keyword_articles
+
 google_news = GNews()
 
 
 def gnews(request):
     query = request.GET.get('query')
-    if len(query) == 0:
-        return HttpResponse("Set a query as param.")
-
-    articles = google_news.get_news(query)
-
-    # TODO: Execute in parallel
-    for article in articles:
-        article['fullArticle'] = google_news.get_full_article(article['url']).text
-
-    #with open('fixtures/data.json', 'w') as f:
-    #    json.dump(articles, f)
-
+    articles = gnews_keyword_articles(query, fetch_full_article=True, write_to_file=True)
     return HttpResponse(articles)
 
 
 def test(request):
-    with open('fixtures/data.json', 'r') as f:
+    with open('data/news_articles/turkey steel price_True.json', 'r') as f:
         data = json.load(f)
         counter = 0
+        print(str(True))
         print(len(data))
         for article in data:
             if len(article.get('fullArticle')) == 0:
-                print(article.get("title"))
-                if article.get('title') == article.get('description'):
-                    counter += 1
+                counter += 1
         print(counter)
     return HttpResponse(data)
