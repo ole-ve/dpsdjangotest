@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Turkish mills likely to face firm scrap prices in early 2024 - S&P Global",
+    "negative": 0.9443512559,
+    "neutral": 0.0209754165,
+    "positive": 0.0346733853
+  },
+  {
+    "title": "What is happening in the Turkish steel market - GMK Center | English",
+    "negative": 0.9662678838,
+    "neutral": 0.0204779655,
+    "positive": 0.0132542029
+  },
+  {
+    "title": "Miller on scrap: US East Coast boosted by Turkey - Steel Market Update",
+    "negative": 0.7983625531,
+    "neutral": 0.1096656099,
+    "positive": 0.0919717327
+  },
+  {
+    "title": "Turkey's steel and ferrous scrap market yet to recover post-earthquake - Recycling Product News",
+    "negative": 0.974334538,
+    "neutral": 0.0180952456,
+    "positive": 0.0075703035
+  },
+  {
+    "title": "Turkey's steel industry to face additional cost pressure from rising energy tariffs - SteelOrbis",
+    "negative": 0.0336710289,
+    "neutral": 0.9462992549,
+    "positive": 0.0200297013
+  },
+  {
+    "title": "Weak lira, low-priced imports reduce demand for domestic flat steel in Turkey - Fastmarkets news",
+    "negative": 0.964207828,
+    "neutral": 0.0252123158,
+    "positive": 0.0105798375
+  },
+  {
+    "title": "American steel sector starts year with upward momentum - Recycling Today",
+    "negative": 0.0163335167,
+    "neutral": 0.0541540161,
+    "positive": 0.9295124412
+  },
+  {
+    "title": "Israel-Hamas Conflict Sends Shockwaves Through Steel Market - OilPrice.com",
+    "negative": 0.1015280634,
+    "neutral": 0.0306079797,
+    "positive": 0.8678639531
+  },
+  {
+    "title": "Israel war worries Turkish, Russian steel exporters - Kallanish News",
+    "negative": 0.9650160074,
+    "neutral": 0.0230430383,
+    "positive": 0.0119409291
+  },
+  {
+    "title": "CRU: Turkish scrap prices continue to rise as supply tightens - Steel Market Update",
+    "negative": 0.640925169,
+    "neutral": 0.0567684732,
+    "positive": 0.3023062944
+  },
+  {
+    "title": "SteelOrbis year-end review: Turkish steel industry experiences an even more difficult year in 2023 - SteelOrbis",
+    "negative": 0.0397748277,
+    "neutral": 0.94082129,
+    "positive": 0.0194038656
+  },
+  {
+    "title": "Turkey's Steel Powerhouse Expands with High-Tech Mill - OilPrice.com",
+    "negative": 0.0106692882,
+    "neutral": 0.8804669976,
+    "positive": 0.1088636965
+  },
+  {
+    "title": "Ferrous market January setback smaller than expected - Recycling Today",
+    "negative": 0.7538772225,
+    "neutral": 0.054082524,
+    "positive": 0.1920402497
+  },
+  {
+    "title": "Recovery of the steel market in 2024 is unlikely \u2013 CIB - GMK Center | English",
+    "negative": 0.4522039294,
+    "neutral": 0.0381205268,
+    "positive": 0.5096755028
+  },
+  {
+    "title": "Turkey's iron ore imports down 5.3 percent in 2023 - SteelOrbis",
+    "negative": 0.9550057054,
+    "neutral": 0.0321712717,
+    "positive": 0.0128230192
+  },
+  {
+    "title": "World scrap prices have been rising since the beginning of November - GMK Center | English",
+    "negative": 0.0303546023,
+    "neutral": 0.0179759916,
+    "positive": 0.951669395
+  },
+  {
+    "title": "T\u00fcrkiye reduced steel production by 16.3% y\/y in the first half of 2023 - GMK Center | English",
+    "negative": 0.9636102915,
+    "neutral": 0.0236126743,
+    "positive": 0.0127769792
+  },
+  {
+    "title": "Turkey's iron ore imports down 31.4 percent in January-July - SteelOrbis",
+    "negative": 0.9683947563,
+    "neutral": 0.0246292092,
+    "positive": 0.0069760266
+  },
+  {
+    "title": "Turkiye increased steel production by 3.5% m\/m in September - GMK Center | English",
+    "negative": 0.9629884958,
+    "neutral": 0.023948526,
+    "positive": 0.013062994
+  },
+  {
+    "title": "T\u00fcrkiye increased steel production by 6.4% y\/y in July - GMK Center | English",
+    "negative": 0.968126595,
+    "neutral": 0.0222307332,
+    "positive": 0.0096426709
+  },
+  {
+    "title": "Turkey's CRC imports up 41.3 percent in January-May - SteelOrbis",
+    "negative": 0.0279628318,
+    "neutral": 0.4457518458,
+    "positive": 0.5262852907
+  },
+  {
+    "title": "Turkey's iron ore imports down 23 percent in January-August - SteelOrbis",
+    "negative": 0.9416433573,
+    "neutral": 0.042250935,
+    "positive": 0.0161057469
+  },
+  {
+    "title": "Turkish steelmakers are calling for the introduction of tariffs on imported steel - GMK Center | English",
+    "negative": 0.6790312529,
+    "neutral": 0.0430093147,
+    "positive": 0.2779594362
+  },
+  {
+    "title": "Russian billet demand wanes in Turkey, prices rise - Kallanish News",
+    "negative": 0.9413513541,
+    "neutral": 0.0247882046,
+    "positive": 0.0338604227
+  },
+  {
+    "title": "Global scrap prices rose to the maximum since May 2023 - GMK Center | English",
+    "negative": 0.1172060743,
+    "neutral": 0.0312098283,
+    "positive": 0.8515841365
+  },
+  {
+    "title": "RMDAS figures show $20-per-ton-plus bump in ferrous market - Construction & Demolition Recycling",
+    "negative": 0.2627316117,
+    "neutral": 0.2622480094,
+    "positive": 0.4750203788
+  },
+  {
+    "title": "Turkish steelmakers expect competition from the Persian Gulf countries - GMK Center | English",
+    "negative": 0.9635311365,
+    "neutral": 0.0233439859,
+    "positive": 0.0131249074
+  },
+  {
+    "title": "Turkish steelmakers need support in the fight against rising imports - GMK Center | English",
+    "negative": 0.6907834411,
+    "neutral": 0.0353104509,
+    "positive": 0.2739060521
+  },
+  {
+    "title": "Turkiye extended anti-dumping duties on thick-rolled steel from China - GMK Center | English",
+    "negative": 0.1234236285,
+    "neutral": 0.1139228046,
+    "positive": 0.7626535296
+  },
+  {
+    "title": "Turkiye has launched an anti-dumping investigation into a coil from four countries - GMK Center | English",
+    "negative": 0.7871469855,
+    "neutral": 0.1349060833,
+    "positive": 0.0779469535
+  },
+  {
+    "title": "Turkiye became the largest buyer of Chinese hot-rolled steel in May - GMK Center | English",
+    "negative": 0.9575303197,
+    "neutral": 0.0235676952,
+    "positive": 0.018901987
+  },
+  {
+    "title": "Turkey's HRC imports up 10.3 percent in January-June - SteelOrbis",
+    "negative": 0.9581500888,
+    "neutral": 0.033140298,
+    "positive": 0.0087096905
+  },
+  {
+    "title": "Turkiye becomes a net importer of steel for the first time since 2015 \u2013 CIB - GMK Center | English",
+    "negative": 0.9669878483,
+    "neutral": 0.019329641,
+    "positive": 0.0136825284
+  },
+  {
+    "title": "Turkey's rebar exports decrease by 50 percent in January-July - SteelOrbis",
+    "negative": 0.9625315666,
+    "neutral": 0.0290380754,
+    "positive": 0.0084303617
+  },
+  {
+    "title": "Turkish steel industry may become more competitive in the second half of the year - GMK Center | English",
+    "negative": 0.964048028,
+    "neutral": 0.0224721376,
+    "positive": 0.0134798558
+  },
+  {
+    "title": "Turkiye increased steel production by 28.9% m\/m in March - GMK Center | English",
+    "negative": 0.9657214284,
+    "neutral": 0.0233461782,
+    "positive": 0.0109324167
+  },
+  {
+    "title": "Prices for scrap metal in Turkiye are on the way to $360\/t - GMK Center | English",
+    "negative": 0.9738180637,
+    "neutral": 0.0168143883,
+    "positive": 0.0093675591
+  },
+  {
+    "title": "Turkey's iron ore imports decrease 26.8 percent in January-March - SteelOrbis",
+    "negative": 0.9424443841,
+    "neutral": 0.0461042747,
+    "positive": 0.0114513049
+  },
+  {
+    "title": "T\u00fcrkiye has increased gas prices for industry by 20% since October - GMK Center | English",
+    "negative": 0.9327198267,
+    "neutral": 0.0334945098,
+    "positive": 0.033785671
+  },
+  {
+    "title": "Turkey's coking coal imports down 5.1 percent in January-June - SteelOrbis",
+    "negative": 0.9598437548,
+    "neutral": 0.0324485749,
+    "positive": 0.0077077369
+  },
+  {
+    "title": "Uptick continues in Turkish scrap market - Kallanish News",
+    "negative": 0.8240032196,
+    "neutral": 0.0351747982,
+    "positive": 0.1408220083
+  },
+  {
+    "title": "Pre-election fever lifts Turkish rebar prices - Kallanish News",
+    "negative": 0.9667948484,
+    "neutral": 0.0168301221,
+    "positive": 0.016375104
+  },
+  {
+    "title": "Turkey's HRC exports down 30.8 percent in January-April - SteelOrbis",
+    "negative": 0.9593610764,
+    "neutral": 0.0334741175,
+    "positive": 0.0071648019
+  },
+  {
+    "title": "Turkiye increased VAT on steel products to 20% - GMK Center | English",
+    "negative": 0.7674725056,
+    "neutral": 0.0334806852,
+    "positive": 0.1990467906
+  },
+  {
+    "title": "Turkey's iron ore imports down 34.6 percent in January-June - SteelOrbis",
+    "negative": 0.9678134322,
+    "neutral": 0.0241665542,
+    "positive": 0.0080200508
+  },
+  {
+    "title": "Prices for steel raw materials showed a significant rise in September - GMK Center | English",
+    "negative": 0.9628205895,
+    "neutral": 0.021236863,
+    "positive": 0.0159425195
+  },
+  {
+    "title": "Global scrap prices stagnate under the influence of a seasonal decline in demand for steel - GMK Center | English",
+    "negative": 0.9749237895,
+    "neutral": 0.0171198305,
+    "positive": 0.0079563782
+  },
+  {
+    "title": "Turkey's iron ore imports down 12 percent in Jan-Nov - SteelOrbis",
+    "negative": 0.9695340395,
+    "neutral": 0.0225343648,
+    "positive": 0.0079315715
+  },
+  {
+    "title": "Turkey's tragedy spurs questions in scrap market - Recycling Today",
+    "negative": 0.3266474903,
+    "neutral": 0.6225143671,
+    "positive": 0.050838165
+  },
+  {
+    "title": "Global rebar prices are falling amid negative market sentiment - GMK Center | English",
+    "negative": 0.9596350193,
+    "neutral": 0.0203993618,
+    "positive": 0.0199656151
+  },
+  {
+    "title": "Turkiye reduced steel exports by 53% y\/y in March - GMK Center | English",
+    "negative": 0.9420340657,
+    "neutral": 0.0308486279,
+    "positive": 0.0271173343
+  },
+  {
+    "title": "Turkiye imported 366.4 thousand tons of iron ore from Ukraine in January-August - GMK Center | English",
+    "negative": 0.9411191344,
+    "neutral": 0.0394778326,
+    "positive": 0.0194031056
+  },
+  {
+    "title": "Commodity Tracker: 5 charts to watch this week - S&P Global",
+    "negative": 0.9381019473,
+    "neutral": 0.029355973,
+    "positive": 0.0325420909
+  },
+  {
+    "title": "Turkiye increased steel output to the maximum since June 2022 in October - GMK Center | English",
+    "negative": 0.9717915654,
+    "neutral": 0.0191645715,
+    "positive": 0.0090437857
+  },
+  {
+    "title": "EC extends anti-dumping to stainless steel from Turkey - Steel and Stainless Steel News",
+    "negative": 0.4313881993,
+    "neutral": 0.0315510631,
+    "positive": 0.5370607376
+  },
+  {
+    "title": "Turkiye sharply increased the import of the billet in the first quarter - GMK Center | English",
+    "negative": 0.4888111949,
+    "neutral": 0.1721152067,
+    "positive": 0.3390735984
+  },
+  {
+    "title": "Turkish Colakoglu Metalurji is increasing its capacity for the production of rolled steel - GMK Center | English",
+    "negative": 0.0451800115,
+    "neutral": 0.0250163693,
+    "positive": 0.9298036098
+  },
+  {
+    "title": "Ship Recycling Market Cools - MarineLink",
+    "negative": 0.127877295,
+    "neutral": 0.0311653018,
+    "positive": 0.8409574032
+  },
+  {
+    "title": "Prices on the global steel and raw materials market went down - GMK Center | English",
+    "negative": 0.9691992998,
+    "neutral": 0.0181409027,
+    "positive": 0.0126598449
+  },
+  {
+    "title": "Global rebar prices are falling due to weak market sentiment - GMK Center | English",
+    "negative": 0.9722117782,
+    "neutral": 0.0175867006,
+    "positive": 0.0102014085
+  },
+  {
+    "title": "World scrap prices continue to fall - GMK Center | English",
+    "negative": 0.9530713558,
+    "neutral": 0.019986026,
+    "positive": 0.0269427076
+  },
+  {
+    "title": "World scrap prices are falling amid weaker demand in Turkiye - GMK Center | English",
+    "negative": 0.9732558727,
+    "neutral": 0.0185229406,
+    "positive": 0.0082212575
+  },
+  {
+    "title": "Energy costs of Turkish steelmakers will continue to decrease \u2013 CIB - GMK Center | English",
+    "negative": 0.9104850888,
+    "neutral": 0.0408599973,
+    "positive": 0.0486548804
+  },
+  {
+    "title": "The level of export prices on the global steel market decreased in June - GMK Center | English",
+    "negative": 0.9700948596,
+    "neutral": 0.0171473343,
+    "positive": 0.0127579197
+  },
+  {
+    "title": "Turkiye\u2019s steel capacity utilization fell to 55% \u2013 TCUD - GMK Center | English",
+    "negative": 0.9694947004,
+    "neutral": 0.0183735006,
+    "positive": 0.0121318139
+  },
+  {
+    "title": "Sanction concerns pause Black Sea pig iron trade - Kallanish News",
+    "negative": 0.7054387927,
+    "neutral": 0.080472298,
+    "positive": 0.2140889615
+  },
+  {
+    "title": "Scrap prices continue to fall under the pressure of weak demand \u2014 Steel news - GMK Center | English",
+    "negative": 0.9737641215,
+    "neutral": 0.0184441097,
+    "positive": 0.0077917655
+  },
+  {
+    "title": "Turkiye reduced steel production by 19.2% m\/m in February 2023 - GMK Center | English",
+    "negative": 0.9666273594,
+    "neutral": 0.0217799526,
+    "positive": 0.0115926871
+  },
+  {
+    "title": "Turkiye agreed on a mechanism to control steel prices for reconstruction - GMK Center | English",
+    "negative": 0.6282852292,
+    "neutral": 0.2923192084,
+    "positive": 0.0793955401
+  },
+  {
+    "title": "T\u00fcrkiye increases electricity tariffs by 20% from October - GMK Center | English",
+    "negative": 0.8988502622,
+    "neutral": 0.0497897305,
+    "positive": 0.0513599664
+  },
+  {
+    "title": "Steel sector activity halted by massive earthquake in Turkey's Iskenderun region - Fastmarkets news",
+    "negative": 0.9395557046,
+    "neutral": 0.0511458851,
+    "positive": 0.0092984615
+  },
+  {
+    "title": "The Turkish Central Bank has sharply raised lending rates to 25% - GMK Center | English",
+    "negative": 0.9668372869,
+    "neutral": 0.022494169,
+    "positive": 0.0106685907
+  },
+  {
+    "title": "World scrap prices continue to decline amid uncertainty - GMK Center | English",
+    "negative": 0.9657518268,
+    "neutral": 0.0180329159,
+    "positive": 0.0162152536
+  },
+  {
+    "title": "2023 ends with price rally on German ferrous scrap market but low trading volumes - EUWID Recycling and Waste Management",
+    "negative": 0.4520626664,
+    "neutral": 0.0541215427,
+    "positive": 0.4938157499
+  },
+  {
+    "title": "Turkish mills likely to continue to struggle with firm scrap prices in early 2023 - S&P Global",
+    "negative": 0.9593563676,
+    "neutral": 0.0218279865,
+    "positive": 0.0188156087
+  },
+  {
+    "title": "Steel Scrap 2024 - Kallanish News",
+    "negative": 0.0089123631,
+    "neutral": 0.8428453803,
+    "positive": 0.1482422948
+  },
+  {
+    "title": "Rebound in Turkey has ferrous market optimistic - Recycling Today",
+    "negative": 0.0713839605,
+    "neutral": 0.2140319049,
+    "positive": 0.7145841122
+  },
+  {
+    "title": "Scrap prices continue to fall in most global markets - GMK Center | English",
+    "negative": 0.9745876193,
+    "neutral": 0.0174415018,
+    "positive": 0.0079708528
+  },
+  {
+    "title": "Global scrap metal prices are supported by an upward trend in Turkiye - GMK Center | English",
+    "negative": 0.0274652187,
+    "neutral": 0.0366076231,
+    "positive": 0.935927093
+  },
+  {
+    "title": "Ferrous market enjoys March upward bump - Recycling Today",
+    "negative": 0.0193886347,
+    "neutral": 0.0331883505,
+    "positive": 0.9474229813
+  },
+  {
+    "title": "US ferrous price gains seem to have stalled - Recycling Today",
+    "negative": 0.498991549,
+    "neutral": 0.3268907666,
+    "positive": 0.1741177142
+  },
+  {
+    "title": "World scrap prices are falling due to global uncertainty in the steel market - GMK Center | English",
+    "negative": 0.9740748405,
+    "neutral": 0.0183470361,
+    "positive": 0.0075781774
+  },
+  {
+    "title": "Falling Turkish demand \u2018hitting UK scrap prices\u2019 - letsrecycle.com",
+    "negative": 0.9694435,
+    "neutral": 0.0196737293,
+    "positive": 0.010882779
+  },
+  {
+    "title": "Turkish Kardemir plans to sell 564 thousand tons of steel in the second quarter - GMK Center | English",
+    "negative": 0.9705911875,
+    "neutral": 0.0187741164,
+    "positive": 0.0106346766
+  },
+  {
+    "title": "Turkey's pig iron imports up 35.6 percent in January - SteelOrbis",
+    "negative": 0.4880568087,
+    "neutral": 0.085141249,
+    "positive": 0.4268019795
+  },
+  {
+    "title": "Ferrous market enjoys March upward bump - Construction & Demolition Recycling",
+    "negative": 0.0239886716,
+    "neutral": 0.0356004797,
+    "positive": 0.9404107928
+  },
+  {
+    "title": "Six months of war: How has it changed the global steel market? - Fastmarkets news",
+    "negative": 0.9728233218,
+    "neutral": 0.019951012,
+    "positive": 0.0072255833
+  },
+  {
+    "title": "Steel prices are stabilizing in Turkiye for post-earthquake reconstruction - GMK Center | English",
+    "negative": 0.5268601775,
+    "neutral": 0.1572380662,
+    "positive": 0.3159017563
+  },
+  {
+    "title": "Steel makers halve production as Turkey-Syria reconstruction fuels scrap price hikes - The Business Standard",
+    "negative": 0.9689537883,
+    "neutral": 0.0183428712,
+    "positive": 0.0127034122
+  },
+  {
+    "title": "Factbox: Turkish steel restarts but weak demand, protectionism dim prospects - S&P Global",
+    "negative": 0.97222507,
+    "neutral": 0.0171623379,
+    "positive": 0.0106126163
+  },
+  {
+    "title": "World rebar prices are adjusting after the earthquake in Turkiye - GMK Center | English",
+    "negative": 0.1618567705,
+    "neutral": 0.0883726329,
+    "positive": 0.7497706413
+  },
+  {
+    "title": "Steel Scrap Turkey Prices and Steel Scrap Turkey Futures Prices - Barchart",
+    "negative": 0.0595571101,
+    "neutral": 0.9243438244,
+    "positive": 0.016099086
+  },
+  {
+    "title": "Turkey's Earthquakes Paralyze Third of Steel Output Capacity - Bloomberg",
+    "negative": 0.9609975219,
+    "neutral": 0.0314340629,
+    "positive": 0.0075683552
+  },
+  {
+    "title": "Steep fall in Turkish steel scrap imports, India seeing 'exponential growth' \u2022 Recycling International - Recycling International",
+    "negative": 0.9529671669,
+    "neutral": 0.0268163662,
+    "positive": 0.0202164687
+  },
+  {
+    "title": "Turkey's steelmakers grab for market share from China, Russia, Ukraine - Nikkei Asia",
+    "negative": 0.0428270288,
+    "neutral": 0.0359213427,
+    "positive": 0.9212515354
+  },
+  {
+    "title": "Domestic ferrous scrap markets: Escalating Turkey sales light fire under US export - Fastmarkets news",
+    "negative": 0.0662369207,
+    "neutral": 0.5891222358,
+    "positive": 0.3446408808
+  },
+  {
+    "title": "Steel hits a higher note in the US - Recycling Today",
+    "negative": 0.0233666133,
+    "neutral": 0.0338252671,
+    "positive": 0.9428081512
+  },
+  {
+    "title": "Turkiye has reduced gas prices for industry by 20% since April - GMK Center | English",
+    "negative": 0.827018559,
+    "neutral": 0.1092265397,
+    "positive": 0.0637549087
+  },
+  {
+    "title": "Black Sea pig iron prices, trade slump - Kallanish News",
+    "negative": 0.9726668,
+    "neutral": 0.0191930421,
+    "positive": 0.0081402492
+  },
+  {
+    "title": "Turkiye imported 30,000 tons of iron ore from Ukraine in January - GMK Center | English",
+    "negative": 0.9660476446,
+    "neutral": 0.0251319632,
+    "positive": 0.0088203568
+  }
+]
