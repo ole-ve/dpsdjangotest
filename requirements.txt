@@ -1,0 +1,6 @@
+asgiref==3.7.2
+Django==4.2.11
+sqlparse==0.4.4
+typing_extensions==4.10.0
+gnews==0.3.6
+newspaper3k==0.2.8
